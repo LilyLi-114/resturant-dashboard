@@ -1,0 +1,15 @@
+* {
+  font-family:
+  -apple-system,BlinkMacSystemFont,
+  "Microsoft Jhenghei","Segoe UI","Roboto",fallback,
+  "Helvetica Neue", Arial, sans-serif,
+  "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+html {
+  font-size: 14px;
+}
+
+.main {
+  min-height: calc(100vh - (49px + 49px + 42px +14px));
+}
